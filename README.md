@@ -23,3 +23,6 @@ Columns:
     Albumin
     Albumin and Globulin Ratio
     Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
+    
+
+The kaggle notebook kernel can be found [here](https://www.kaggle.com/devprabal/liver-patients-prediction).
